@@ -1,3 +1,3 @@
 # express-middleware
 
-> npx nodemon --inspect server
+`npx nodemon --inspect server`
